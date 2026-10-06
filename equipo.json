@@ -1,12 +1,12 @@
 {
   "integrante_a": {
-    "nombre": "Victor Sarmiento",
-    "github_user": "SarmientoEdu",
-    "rol": "PENDIENTE"
+    "nombre": "Erick Santamaría",
+    "github_user": "ErickPOO2026",
+    "rol": "Líder de Integración"
   },
   "integrante_b": {
     "nombre": "Juan P",
     "github_user": "Juanpo",
-    "rol": "PENDIENTE"
+    "rol": "PENDIENTE" 
   }
 }
